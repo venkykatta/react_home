@@ -1,0 +1,15 @@
+.heading {
+    background-color:rgb(230, 147, 164);
+    padding:10px;
+
+}
+
+.para {
+    background-color:rgb(223, 193, 223);
+    padding:10px;
+}
+
+.btn {
+    font-size:25px;
+    color:rgb(156, 228, 228);
+}
